@@ -2,6 +2,7 @@
 # 👋 Salut, moi c'est Maëva Rodrigues ! 🚀  
 
 ## 👩‍💻 Développeuse web bénévole chez Ludi Muséo & développeuse back-end ABAP SAP chez CGI  
+
 🌱 **En reconversion après 10 ans en RH** | Passionnée de **développement web, IA et accessibilité**  
 🎯 Actuellement en alternance, j'aime **résoudre des problèmes techniques** et explorer **les nouvelles technologies**.  
 
@@ -23,10 +24,12 @@
 ### 🚀 **Projets en avant**
 
 🌟 **Quelques projets qui me tiennent à cœur :**  
-- 🎨 [**Dédale**][(https://github.com/ludimuseo)] → Projet pour l'accessibilité en musée (repo privé)
+
+- 🎨 [**Dédale**](https://github.com/ludimuseo)→ Projet pour l'accessibilité en musée (repo privé)
 - 🚀 [**Startup MVP**](https://github.com/Maeva-RODRIGUES/startup-MVP) → Un MVP en **Next.js** pour une startup, avec **authentification, API et UI optimisée**.  
 
 📌 **D'autres projets à venir sur mon GitHub !**
+
 - 🤖 [**SaaS d'analyse de sentiments IA**] → Détection des émotions dans les feedbacks Linkedin
   
 ---
@@ -34,7 +37,6 @@
 ### 📊 **Statistiques GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maeva-RODRIGUES&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maeva-RODRIGUES&theme=dark)  
 
 ---
 
