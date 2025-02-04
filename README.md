@@ -31,7 +31,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maeva-RODRIGUES&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maeva-RODRIGUES&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Maeva-RODRIGUES&theme=dark)
 
 ---
 
