@@ -43,8 +43,9 @@
 ### 🎯 **Où me retrouver ?**
 
 📫 **Contacte-moi sur LinkedIn** !  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeva-rodrigues-backend-dev/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat)](https://www.portf0l.io/maeva-rodrigues)  
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeva-rodrigues-backend-dev/)  
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat)](https://www.portf0l.io/maeva-rodrigues)  
  
 
 ⚡ **Fun fact** : Je suis obsédée par l'organisation et l'efficacité ! 😄  
