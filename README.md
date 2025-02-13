@@ -1,7 +1,7 @@
 🇫🇷
 # 👋 Salut, moi c'est Maëva Rodrigues ! 
 
-## 💻 Développeuse Web & Back-end ABAP SAP | Passionnée d’IA & d’accessibilité  
+## 💻 Développeuse Web & Back-end ABAP SAP | Passionnée d’IA 
 
 💡 Ex-RH reconvertie en développeuse, je code aujourd’hui pour **créer des solutions impactantes et accessibles**.  
 🎯 En alternance chez **CGI**, je me spécialise en **ABAP SAP**.  
