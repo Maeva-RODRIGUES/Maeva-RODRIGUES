@@ -16,19 +16,18 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: Maeva-RODRIGUES
-          outputs: output/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg # Correction ici
 
       - name: Upload Snake Animation
         uses: actions/upload-artifact@v4
         with:
           name: snake-animation
-          path: output/github-contribution-grid-snake.svg
+          path: dist/github-contribution-grid-snake.svg
 
       - name: Commit Snake Animation to Repo
         run: |
-          mv output/github-contribution-grid-snake.svg .
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
-          git add github-contribution-grid-snake.svg
-          git commit -m "Add latest Snake animation"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update Snake animation"
           git push
