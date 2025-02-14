@@ -36,10 +36,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maeva-RODRIGUES&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-
+![Snake animation](https://github.com/Maeva-RODRIGUES/Maeva-RODRIGUES/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
