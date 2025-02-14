@@ -29,7 +29,8 @@
 
 ### 📊 **Statistiques GitHub**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maeva-RODRIGUES&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maeva-RODRIGUES&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maeva-RODRIGUES&layout=compact&theme=radical)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maeva-RODRIGUES&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
