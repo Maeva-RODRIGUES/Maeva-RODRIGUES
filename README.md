@@ -30,8 +30,9 @@
 ### 📊 **Statistiques GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maeva-RODRIGUES&show_icons=true&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maeva-RODRIGUES&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Maeva-RODRIGUES&theme=default&locale=fr&short_numbers=&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 
 
 ---
