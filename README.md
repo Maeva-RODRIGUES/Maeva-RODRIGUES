@@ -33,6 +33,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maeva-RODRIGUES&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maeva-RODRIGUES&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
