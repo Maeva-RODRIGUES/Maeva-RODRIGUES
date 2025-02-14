@@ -9,12 +9,26 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         with:
           github_user_name: Maeva-RODRIGUES
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v4
+          outputs: output/github-contribution-grid-snake.svg
+
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v4
         with:
-          name: snake-gif
-          path: dist/github-contribution-grid-snake.svg
+          name: snake-animation
+          path: output/github-contribution-grid-snake.svg
+
+      - name: Commit Snake Animation to Repo
+        run: |
+          mv output/github-contribution-grid-snake.svg .
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Add latest Snake animation"
+          git push
