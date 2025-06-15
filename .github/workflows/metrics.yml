@@ -1,0 +1,27 @@
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * 1" }] # Génère tous les lundis
+  workflow_dispatch: # Permet un lancement manuel
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 👇 Ton nom d'utilisateur GitHub
+          user: Maeva-RODRIGUES
+          template: classic
+          base: header, repositories
+          config_timezone: Europe/Paris
+          
+          # ✅ Langages & Frameworks
+          plugin_languages: yes
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: mastered
+
+          # ➕ Facultatif : framework via dépendances (expérimental)
+          plugin_dependencies: yes
+          plugin_dependencies_section: frameworks
