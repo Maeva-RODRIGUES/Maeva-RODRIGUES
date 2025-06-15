@@ -1,8 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * 1" }] # Génère tous les lundis
-  workflow_dispatch: # Permet un lancement manuel
+  schedule: [{ cron: "0 0 * * 1" }]
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -10,18 +10,21 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 👇 Ton nom d'utilisateur GitHub
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           user: Maeva-RODRIGUES
           template: classic
           base: header, repositories
           config_timezone: Europe/Paris
-          
-          # ✅ Langages & Frameworks
+
           plugin_languages: yes
+          plugin_languages_ignored: html # si tu veux l'enlever
+          plugin_languages_limit: 6
+
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: mastered
 
-          # ➕ Facultatif : framework via dépendances (expérimental)
           plugin_dependencies: yes
           plugin_dependencies_section: frameworks
+
