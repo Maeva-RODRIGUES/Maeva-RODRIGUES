@@ -32,6 +32,7 @@
 ### 📊 **Statistiques GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maeva-RODRIGUES&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maeva-RODRIGUES&layout=compact&theme=radical) 
+
 ![Metrics](https://github.com/Maeva-RODRIGUES/Maeva-RODRIGUES/blob/generated/github-metrics.svg)
 
 
