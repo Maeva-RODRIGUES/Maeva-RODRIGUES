@@ -4,7 +4,7 @@
 ## 💻 Développeuse Web & Back-end ABAP SAP | Passionnée d’IA 
 
 💡 Ex-RH reconvertie en développeuse, je code aujourd’hui pour **créer des solutions impactantes et accessibles**.  
-🎯 En alternance chez **CGI**, je me spécialise en **ABAP SAP**.  
+🎯 En alternance chez **CGI** en **ABAP SAP**.  
 👩‍💻 **Bénévole chez Ludi Muséo** où je développe des outils numériques et sensoriels pour l’accessibilité dans les musées.  
 
 🔗 **[💻 Découvre mon Portfolio](https://www.portf0l.io/maeva-rodrigues)**
