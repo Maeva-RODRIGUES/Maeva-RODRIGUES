@@ -3,9 +3,9 @@
 
 ## 💻 Data Engineer en alternance chez Skeepers | Formation Data Engineer @ DataScientest
 
-```
 Ex-RH reconvertie voici la timeline de ma reconversion :  
 
+```
 2024 ── Titre Professionnel Développeur Web et Web Mobile (bac +2)
    │
 2024-2025 ── Titre Professionnel Concepteur Développeur d’Applications (bac +3) - Alternance chez CGI
