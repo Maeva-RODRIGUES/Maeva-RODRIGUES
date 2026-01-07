@@ -1,7 +1,7 @@
 🇫🇷
 # 👋 Salut, moi c'est Maëva Rodrigues ! 
 
-## 💻 Data Engineer en alternance chez Skeepers | Formation Data Engineer @ DataScientest
+## 💻 Data Engineer en alternance chez Skeepers | Formation Data Engineer DataScientest
 
 Ex-RH reconvertie voici la timeline de ma reconversion :  
 
@@ -23,15 +23,15 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 ### 🛠️ **Stacks techniques**  
 
 **Stack actuelle :**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Stack en cours d'apprentissage :**
-![Scala](https://img.shields.io/badge/scala-%23E32F27.svg?style=for-the-badge&logo=scala&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-E32F27?style=flat&logo=scala&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
