@@ -1,26 +1,43 @@
 🇫🇷
 # 👋 Salut, moi c'est Maëva Rodrigues ! 
 
-## 💻 Développeuse Web & Back-end ABAP SAP | Passionnée d’IA 
+## 💻 Data Engineer en alternance chez Skeepers | Formation Data Engineer @ DataScientest
 
-💡 Ex-RH reconvertie en développeuse, je code aujourd’hui pour **créer des solutions impactantes et accessibles**.  
-🎯 En alternance chez **CGI** en **ABAP SAP**.  
+```
+Ex-RH reconvertie voici la timeline de ma reconversion :  
+
+2024 ── Titre Professionnel Développeur Web et Web Mobile (bac +2)
+   │
+2024-2025 ── Titre Professionnel Concepteur Développeur d’Applications (bac +3) - Alternance chez CGI
+   │
+   │
+2026 à 2028 ── Titre Professionnel Data Engineer (bac +5) - Alternance chez SKEEPERS
+```
+   
 👩‍💻 **Bénévole chez Ludi Muséo** où je développe des outils numériques et sensoriels pour l’accessibilité dans les musées.  
 
 🔗 **[💻 Découvre mon Portfolio](https://www.portf0l.io/maeva-rodrigues)**
 
 ---
 
-### 🛠️ **Technologies & Outils**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![SAP ABAP](https://img.shields.io/badge/-SAP%20ABAP-009999?style=flat&logo=sap&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
-![My Rust Progress](https://img.shields.io/badge/Rust-In%20Progress-orange?logo=rust)
-![My Python Progress](https://img.shields.io/badge/Python-In%20Progress-blue?logo=python)
+### 🛠️ **Stacks techniques**  
+
+#**Stack actuelle :**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#**Stack en cours d'apprentissage :**
+![Scala](https://img.shields.io/badge/scala-%23E32F27.svg?style=for-the-badge&logo=scala&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ### 🚀 **Projets en avant**
 
-🌟 **Quelques projets qui me tiennent à cœur :**  
+🌟 **Quelques projets web qui me tiennent à cœur :**  
 
 - 🎨 [**Dédale**](https://github.com/ludimuseo)→ Projet pour l'accessibilité en musée (repo privé)
 - 🚀 [**Startup MVP**](https://github.com/Maeva-RODRIGUES/startup-MVP) → Un MVP en **Next.js** pour une startup, avec **authentification, API et UI optimisée**.  
@@ -32,16 +49,9 @@
 ### 📊 **Statistiques GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maeva-RODRIGUES&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maeva-RODRIGUES&layout=compact&theme=radical) 
-
 ![Metrics](https://github.com/Maeva-RODRIGUES/Maeva-RODRIGUES/blob/generated/github-metrics.svg)
-
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maeva-RODRIGUES%20&theme=dark&locale=fr)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maeva-RODRIGUES&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 
