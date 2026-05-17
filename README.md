@@ -18,27 +18,51 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 
 ---
 
-### 🛠️ **Stacks techniques**  
+## 🛠️ Stack technique
 
-**Stack actuelle :**
+**Langages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Scala](https://img.shields.io/badge/Scala-E32F27?style=flat&logo=scala&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+
+**Data & Big Data**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-3E4C5E?style=flat&logo=apache&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat&logo=temporal&logoColor=white)
+
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Frameworks & API**
+![Pekko](https://img.shields.io/badge/Pekko-E32F27?style=flat&logo=apache&logoColor=white)
+![REST API](https://img.shields.io/badge/API%20REST-005571?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
-### 🚀 **Projets en avant**
+## 🚀 Projets
 
-🌟 **Quelques projets web qui me tiennent à cœur :**  
+### 📊 Data Engineering
+- 🔄 [**projet-fil-rouge**]() : *(à venir)* · DataScientest · Data Engineering end-to-end
+- 🔧 [**medallion-pipeline**]() : *(à venir)* · Pipeline Bronze/Silver/Gold · PySpark · Iceberg
+- ⚙️ [**orchestration-demo**]() : *(à venir)* · Workflows distribués · Temporal
 
-- 🎨 [**Dédale**](https://github.com/ludimuseo)→ Projet pour l'accessibilité en musée (repo privé)
-- 🚀 [**Startup MVP**](https://github.com/Maeva-RODRIGUES/startup-MVP) → Un MVP en **Next.js** pour une startup, avec **authentification, API et UI optimisée**.  
+### 🛠️ Data Tools & Visualisation
+- 📈 [**streamlit-app**]() : Dashboard métier connecté à un pipeline de données · Python · Streamlit
+- 📋 [**quarto-report**]() : Reporting automatisé à partir de données traitées · Quarto · Python
+- ⚙️ [**pipeline**]() : Ingestion et transformation automatisée · Python
 
-📌 **D'autres projets sont en cours... Stay tuned** ! 
+### 🌐 Fullstack / Web
+- 🚀 [**NextOne**](https://github.com/Maeva-RODRIGUES) : Gestion de file d'attente · React / TS / GraphQL / Docker
+- 🛠️ [**Startup MVP**](https://github.com/Maeva-RODRIGUES/startup-MVP) : MVP · Next.js / Auth / API
+
+### 🎨 Associatif
+- 🎨 [**Dédale**](https://github.com/ludimuseo) : Outils numériques pour l'accessibilité en musée *(repo privé)*
 
 ---
 
