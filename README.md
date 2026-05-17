@@ -16,8 +16,6 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
    
 👩‍💻 **Bénévole chez Ludi Muséo** où je développe des outils numériques et sensoriels pour l’accessibilité dans les musées.  
 
-🔗 **[💻 Découvre mon Portfolio](https://www.portf0l.io/maeva-rodrigues)**
-
 ---
 
 ### 🛠️ **Stacks techniques**  
@@ -60,7 +58,6 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 📫 **Contacte-moi sur LinkedIn** !  
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeva-rodrigues-backend-dev/)  
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat)](https://www.portf0l.io/maeva-rodrigues)
 - [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/maero33)
 
  
