@@ -26,8 +26,6 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Stack en cours d'apprentissage :**
 ![Scala](https://img.shields.io/badge/Scala-E32F27?style=flat&logo=scala&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
@@ -57,7 +55,7 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 
 📫 **Contacte-moi sur LinkedIn** !  
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeva-rodrigues-backend-dev/)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeva-rodrigues-data-engineer/)  
 - [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/maero33)
 
  
