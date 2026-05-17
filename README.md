@@ -1,7 +1,7 @@
 🇫🇷
 # 👋 Salut, moi c'est Maëva Rodrigues ! 
 
-## 💻 Data Engineer en alternance chez Skeepers | Formation Data Engineer DataScientest
+## 💻 Data Engineer en alternance @ Skeepers (2026-2028)
 
 Ex-RH reconvertie voici la timeline de ma reconversion :  
 
