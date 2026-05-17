@@ -53,12 +53,13 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 - ⚙️ [**orchestration-demo**]() : *(à venir)* · Workflows distribués · Temporal
 
 ### 🛠️ Data Tools & Visualisation
-- 📈 [**streamlit-app**]() : Dashboard métier connecté à un pipeline de données · Python · Streamlit
-- 📋 [**quarto-report**]() : Reporting automatisé à partir de données traitées · Quarto · Python
-- ⚙️ [**pipeline**]() : Ingestion et transformation automatisée · Python
+- 📈 [**streamlit-app**]() : *(à venir)* Dashboard métier connecté à un pipeline de données · Python · Streamlit
+- 📋 [**quarto-report**]() : *(à venir)* Reporting automatisé à partir de données traitées · Quarto · Python
+- ⚙️ [**pipeline**]() : *(à venir)* Ingestion et transformation automatisée · Python
 
 ### 🌐 Fullstack / Web
-- 🚀 [**NextOne**](https://github.com/Maeva-RODRIGUES) : Gestion de file d'attente · React / TS / GraphQL / Docker
+- 🚀 [**NextOne — Front**](https://github.com/Maeva-RODRIGUES/2411-wns-vert-groupe-4-nextone-front) : Gestion de file d'attente · React / TS / GraphQL / Docker
+- 🔧 [**NextOne — Back**](https://github.com/Maeva-RODRIGUES/2411-wns-vert-groupe-4-nextone-back) : API GraphQL · Node.js / TypeORM / PostgreSQL / Docker
 - 🛠️ [**Startup MVP**](https://github.com/Maeva-RODRIGUES/startup-MVP) : MVP · Next.js / Auth / API
 
 ### 🎨 Associatif
