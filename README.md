@@ -69,6 +69,7 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 
 ### 📊 **Statistiques GitHub**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maeva-RODRIGUES&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maeva-RODRIGUES%20&theme=dark&locale=fr)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maeva-RODRIGUES&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
