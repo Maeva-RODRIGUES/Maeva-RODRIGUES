@@ -48,7 +48,7 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 ## 🚀 Projets
 
 ### 📊 Data Engineering
-- 🔄 [**projet-fil-rouge**]() : *(à venir)* · DataScientest · Data Engineering end-to-end
+- 🔄 [**projet-fil-rouge**]() : (https://github.com/Maeva-RODRIGUES/churn-data-platform/tree/develop) · DataScientest · Data Engineering end-to-end
 - 🔧 [**medallion-pipeline**](https://github.com/Maeva-RODRIGUES/medallion-pipeline) :Pipeline Bronze/Silver/Gold · PySpark · Python
 - ⚙️ [**orchestration-demo**]() : *(à venir)* · Workflows distribués · Temporal
 
