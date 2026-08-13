@@ -58,7 +58,7 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 🔌 APIs & Architecture
+### 🔌 APIs 
 
 ![REST API](https://img.shields.io/badge/API%20REST-005571?style=flat&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
