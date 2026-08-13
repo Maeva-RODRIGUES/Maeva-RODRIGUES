@@ -86,7 +86,7 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 ### 📊 Data Engineering
 
 - 🔄 [**Churn Data Platform**](https://github.com/Maeva-RODRIGUES/churn-data-platform/tree/develop)  
-  Projet Data Engineering end-to-end · DataScientest
+  Projet Data Engineering end-to-end · Liora
 
 - 🔧 [**Medallion Pipeline**](https://github.com/Maeva-RODRIGUES/medallion-pipeline)  
   Pipeline Bronze / Silver / Gold · PySpark · Python
@@ -123,7 +123,7 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 
 📫 **Envie d'échanger ? Tu peux me retrouver ici :**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeva-rodrigues-data-engineer/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maeva-rodrigues/)
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/maero33)
 
