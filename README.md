@@ -1,7 +1,7 @@
 🇫🇷
 # 👋 Salut, moi c'est Maëva Rodrigues ! 
 
-## 💻 Software Engineer | Full Stack • Back-End • Data
+## 💻 Data Engineer | Software Engineer | Back-End 
 
 Ex-RH reconvertie voici la timeline de ma reconversion :  
 
