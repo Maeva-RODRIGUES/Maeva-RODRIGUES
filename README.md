@@ -85,6 +85,9 @@ Ex-RH reconvertie voici la timeline de ma reconversion :
 
 ### 📊 Data Engineering
 
+- ⚖️ [**Legal Data Pipeline**](https://github.com/Maeva-RODRIGUES/legal-data-pipeline)
+  Pipeline Data Engineering end-to-end pour collecter, transformer et exploiter des données juridiques · Python · API · ETL · PostgreSQL · Docker · tests    automatisés
+
 - 🔄 [**Churn Data Platform**](https://github.com/Maeva-RODRIGUES/churn-data-platform/tree/develop)  
   Projet Data Engineering end-to-end · Liora
 
